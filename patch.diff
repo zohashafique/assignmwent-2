@@ -1,0 +1,12 @@
+--- zoha1.txt	2021-03-14 20:56:26.104780800 +0500
++++ zoha2.txt	2021-03-14 21:16:03.040746200 +0500
+@@ -1,5 +1,6 @@
+ hello world
+-name of animals 
+-monkey 
++name of animals
++monkey
+ lion
+ deer
++lepord
+\ No newline at end of file
